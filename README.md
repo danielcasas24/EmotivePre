@@ -1,8 +1,8 @@
 # EmotivePre Software
 
 ### Table of contents
-1. [Hardware requirements](#hardware-requiremens)
-2. [Software requirements](#software-requiremens)
+1. [Hardware requirements](#hardware-requirements)
+2. [Software requirements](#software-requirements)
 3. [Source files description](#source-files-description)
 
 ### Hardware requirements
