@@ -1,12 +1,18 @@
 # EmotivePre Software
 
-## Hardware requirements:
+### Table of contents
+1. [Hardware requirements](#hardware-requiremens)
+2. [Software requirements](#software-requiremens)
+3. [Source files description](#source-files-description)
+
+### Hardware requirements
 - EMOTIV EPOC+ 14 Channel Mobile Brainwear®
 
-## Software requirements:
+### Software requirements
 - [Emotiv SDK - Community Edition](https://github.com/pandark/emotiv-community-sdk)
+- Python 2.7
 
-## Source files description
+### Source files description
 
 
 | File name  | Description |
