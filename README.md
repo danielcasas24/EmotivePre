@@ -1,5 +1,7 @@
 # EmotivePre Software
 
+Cerebral activity records visualizer based on data obtained from the Emotiv Epoc Community SDK.
+
 ### Table of contents
 1. [Hardware requirements](#hardware-requirements)
 2. [Software requirements](#software-requirements)
